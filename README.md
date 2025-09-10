@@ -8,8 +8,6 @@ The following document shows the high level framework at a glance.
 
 [Open the overview](overview.pdf)
 
-> Tip: GitHub renders a preview of the pdf in the browser. If you prefer an inline image, export a png named `overview.png` and replace the pdf link with `![Framework overview](overview.png)`.
-
 ## Quick start
 
 1. Create and activate a Python environment
